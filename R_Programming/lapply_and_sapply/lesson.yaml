@@ -1,9 +1,9 @@
 - Class: meta
   Course: R Programming
   Lesson: lapply and sapply
-  Author: Nick Carchedi
+  Author: Bipin Kumar
   Type: Standard
-  Organization: JHU Biostat
+  Organization: Programming
   Version: 2.2.11
 
 - Class: text
